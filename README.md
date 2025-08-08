@@ -2,6 +2,9 @@
 
 Automatically crops banner/watermark regions from images using intelligent color analysis, great for large webscraped image datasets.
 
+**Note**
+This tool is part of a larger project for creating a web-scraped image dataset for training YOLO models. The full project is available [on HuggingFace](https://huggingface.co/datasets/lreal/BingRecycle40k).
+
 ## Setup
 
 1. **Create Virtual Environment**:
