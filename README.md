@@ -1,15 +1,13 @@
-# AutoBannerCropper
+# Auto Banner Cropper
 
-Automatically crops banner/watermark regions from images using intelligent color analysis.
+Automatically crops banner/watermark regions from images using intelligent color analysis, great for large webscraped image datasets.
 
 ## Setup
 
 1. **Create Virtual Environment**:
 ```bash
 python -m venv autocrop-venv
-source autocrop-venv/bin/activate  # Linux/Mac
-# or
-autocrop-venv\Scripts\activate     # Windows
+source autocrop-venv/bin/activate
 ```
 
 2. **Install Dependencies**:
